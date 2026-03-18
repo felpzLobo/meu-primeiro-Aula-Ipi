@@ -1,1 +1,2 @@
 Este é meu primeiro arquivo no Git
+Esta é a segunda versão do arquivo com mais texto
